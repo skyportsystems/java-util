@@ -1,0 +1,4 @@
+origin	git@github.com:skyportsystems/java-util.git (fetch)
+origin	git@github.com:skyportsystems/java-util.git (push)
+upstream	https://github.com/metamx/java-util.git (fetch)
+upstream	https://github.com/metamx/java-util.git (push)
